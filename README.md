@@ -1,2 +1,2 @@
 # python-semantic-analyzer
-Simple program to make a semantic analysis from a small snippet of code
+Simple program that applies semantic analysis on small snippets of code
