@@ -1,0 +1,9 @@
+int x = 40
+void funcion(float v, string n){
+    while (v > 0.0){
+        n = "Mayor"
+        x = x + 5
+    }
+    return 3
+}
+
